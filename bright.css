@@ -1,0 +1,379 @@
+*{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            margin-top: 0;
+        }
+        img{
+             width: 1340px;
+            height: 752px;
+              /* angle: 0 deg;   */
+             opacity: 1;
+            /* top: 134px;  */
+        }
+
+        .marvellous {
+            position: relative;
+            top: 430px;
+            text-align: center;
+            font-family: Mulish;
+             font-weight: 700;
+            font-style: Bold;
+            font-size: 3rem;
+            /* leading-trim: NONE; */
+            line-height: 100%;
+            letter-spacing: 0%;
+            text-align: center;
+            color: #FFFFFF;
+        }
+
+        .mezie {
+            position: relative;
+            top: 500px;
+            text-align: center;
+            font-family: Mulish;
+            font-weight: 300;
+            font-style: SemiBold;
+            font-size: 2rem;
+            /* leading-trim: NONE;  */
+            line-height: 100%;
+            letter-spacing: 0%;
+            text-align: center;
+            color: #FFFFFF;
+
+        }
+        .card{
+        /* padding: 20 30;
+        /* angle: 0 deg; */
+        opacity: 1;
+        /* top: 234px; */
+       left: 4px;
+      /* border-radius: 5px; */
+      /* background:#ccc; */
+      width: 320px;
+      height: 55px;
+      background: #ccc;
+      margin: 20px;
+        }
+        .friend{
+          height: 55px;
+        }
+        .gift{
+            height: 39px;
+            width: 40px;
+            position: relative;
+            top:10px ;
+            left: 15px;
+            border-radius: 3px;
+            border: none;
+            background: green;
+            color: #FFFFFF;
+        }
+        .precious{
+            position: relative;
+            top: 10px; ;
+            left: 40px;
+
+        }
+        .bright{
+        width: 347px;
+      height: 55px;
+      background: #ccc;
+      margin: 20px;
+        }
+        .luno{
+            height: 39px;
+            width: 40px;
+            position: relative;
+            top:10px ;
+            left: 15px;
+            border-radius: 3px;
+            border: none;
+            background: green;
+            color: #FFFFFF;
+        }
+        .thelma{
+             position: relative;
+            top: 10px; ;
+            left: 40px;
+        }
+        .Franklin{
+        width: 384px;
+      height: 55px;
+      background: #ccc;
+      margin: 20px;
+        }
+        .spa{
+            height: 39px;
+            width: 40px;
+            position: relative;
+            top:10px ;
+            left: 15px;
+            border-radius: 3px;
+            border: none;
+            background: green;
+            color: #FFFFFF;
+        }
+        .desk{
+             position: relative;
+            top: 10px; ;
+            left: 40px;
+        }
+        .tech{
+            height: 39px;
+            width: 200px;
+            position: relative;
+            top:10px ;
+            left: 15px;
+            border-radius: 3px;
+            border: none;
+            background: green;
+            color: #FFFFFF; 
+        }
+        .Amaka{
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+        }
+        .uwana{
+          width: 554px;
+            height: 449px;
+            bottom: 40px;
+            left:-2px;
+            position: relative;
+        }
+        .copilot{
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+             gap: 30px;
+           
+        }
+        .agent{
+        width: 200px;
+        height: 180px;
+         background: rgb(44, 134, 44);
+        }
+        .franthel{
+        width: 200px;
+        height: 180px;
+         background: rgb(44, 134, 44);
+        }
+        .treatment{
+        background: rgb(44, 134, 44);
+        width: 200px;
+        height: 180px;
+        }
+        .mode{
+            background: rgb(44, 134, 44);
+            width: 200px;
+        height: 180px;
+        }
+        .fees{
+            background: rgb(44, 134, 44);
+            width: 200px;
+        height: 180px;
+        }
+        .Savings{
+            background: lightskyblue;
+            height: 400px;
+        }
+        .type{
+            text-align: center;
+        }
+        .context{
+            width: 450px;
+            height: 400px;
+            position: relative; 
+            right: 210px;
+            top: 90px;
+           
+        }
+        .Fan{
+            display: flex;
+        }
+        .chris{
+            position: relative; 
+             bottom: 40px;
+            
+            width: 2000px;   
+        }   
+        .commands{
+        width: 320px;
+      height: 55px;
+      background: #ccc;
+      margin: 20px;
+        }
+        .sunshine{
+            height: 39px;
+            width: 40px;
+            position: relative;
+            top:10px ;
+            left: 15px;
+            border-radius: 3px;
+            border: none;
+            background: green;
+            color: #FFFFFF;
+        }
+        .victory{
+            position: relative;
+            top: 10px; ;
+            left: 40px;
+        }
+        .divine{
+              width: 400px;
+      height: 55px;
+      background: #ccc;
+      margin: 20px;
+        }
+        .agusta{
+        width: 389px;
+      height: 55px;
+      background: #ccc;
+      margin: 20px;
+        }
+        .errors{
+              width: 347px;
+      height: 55px;
+      background: #ccc;
+      margin: 20px;
+        }
+        /* .Fan{
+            display: flex;
+            justify-content: space-evenly
+        } */
+         .attach{
+            /* position: relative ;
+            top: 490px;
+             right: 540px; */
+            height: 39px;
+            width: 200px;
+        } 
+        /* .cling{
+            display: grid;
+            grid-template-columns: repeat(1,1fr);
+            background:#fff ;
+    width: 900px;
+    position: relative;
+        } */
+        .Borrow{
+            display: flex;
+            justify-content: space-evenly;
+        }
+        .rita{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-weight: 700;
+           left: 400px;
+            position: relative;
+            /* bottom: 50px; */
+        }
+        .result{
+            position: relative; 
+            right: 120px;
+            top: 90px;  
+        }
+        .Francis{
+            position: relative;
+            top: 120px;
+            text-align: center;
+            font-size: 50px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            /* font-weight: 90px; */
+            /* font-style: italic; */
+        }
+        .joy{
+            position: relative;
+            top: 150px;
+            text-align: center; 
+            font-size: 20px;
+        }
+        .email{
+            position: relative;
+            top: 160px;
+             text-align: center;  
+        }
+        .input{
+            width: 390px;
+   height: 45px;
+   border-radius: 5px;
+   margin: 5px;
+   border: none;
+        }
+        .phone{
+             position: relative;
+            top: 180px;
+             text-align: center; 
+        }
+        .uniform{
+            width: 190px;
+            height: 40px;
+            background: rgb(7, 114, 69);
+            border: none;
+            color: white;
+        }
+        .padding{
+            background: rgb(22, 98, 121);
+            position: relative;
+            top: 250px;
+            text-align: center; 
+            height: 400px;
+            color: white;
+        }
+        .Famous{
+            color: #ccc;
+        }
+        .irechukwu{
+            color: #ccc;
+        }
+        .beauty{
+            background: rgb(30, 185, 30);
+            top: 260px;
+            position: relative;
+        }
+        .gold{
+            display: grid;
+            grid-template-columns: repeat(6, 1fr);
+            gap: 10px;
+        }
+        .kitty{
+        color: #ccc;
+        }
+        .chidindu{
+        color: #ccc;
+        }
+        .daniel{
+        color: #ccc;
+        }
+        .chukwu{
+            color: #ccc;
+        }
+        /* @media screen for Mobile */
+        @media screen and (min-width:0) and (max-width:700px) {
+            .Amaka{
+                display: grid;
+                grid-template-columns:auto ;
+            }
+            .agent{
+                display: grid;
+                grid-template-columns: auto;
+            }
+            .img{
+                width: 50px;
+                /* height:40px */
+            }
+            .copilot{
+                display: grid;
+                grid-template-columns: auto;
+            }
+            .fan{
+                display: grid;
+                grid-template-columns: auto;
+            }
+            .context{
+                position: relative;
+                top: 550px;
+            }
+            .cling{
+                position: relative;
+                top: 700px;
+            }
+            
+        }
